@@ -1,5 +1,7 @@
 from skimage.feature import hog
 
+name = "HOG"
+
 class featureExtraction():
 
     def __init__(self, params):

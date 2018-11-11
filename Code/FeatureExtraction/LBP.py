@@ -1,6 +1,8 @@
 from skimage.feature import multiblock_lbp as lbp
 import numpy as np
 
+name = "LBP"
+
 class featureExtraction():
 
     def __init__(self, params):
