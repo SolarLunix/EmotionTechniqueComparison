@@ -2,245 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1ddaa6a-1776-4ae7-ba61-ae850cc5c1b1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.AN1.39.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.AN2.40.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.AN3.41.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.DI1.42.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.DI2.43.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.DI3.44.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.FE1.45.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.FE2.46.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.FE3.47.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.FE4.48.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.HA1.29.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.HA2.30.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.HA3.31.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.HA4.32.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.NE1.26.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.NE2.27.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.NE3.28.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.SA1.33.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.SA2.34.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.SA3.35.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.SU1.36.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.SU2.37.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KA.SU3.38.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.AN1.167.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.AN2.168.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.AN3.169.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.DI1.170.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.DI2.171.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.DI3.172.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.DI4.173.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.FE1.174.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.FE2.175.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.FE3.176.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.HA1.158.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.HA2.159.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.HA3.160.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.NE1.155.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.NE2.156.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.NE3.157.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.SA1.161.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.SA2.162.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.SA3.163.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.SU1.164.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.SU2.165.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KL.SU3.166.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.AN1.17.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.AN2.18.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.AN3.19.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.DI1.20.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.DI3.22.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.FE1.23.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.FE2.24.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.FE3.25.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.HA1.4.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.HA2.5.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.HA3.6.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.HA4.7.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.NE1.1.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.NE2.2.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.NE3.3.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.SA1.9.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.SA2.10.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.SA3.11.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.SA5.13.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.SU1.14.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.SU2.15.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KM.SU3.16.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.AN1.83.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.AN2.84.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.AN3.85.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.DI1.86.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.DI2.87.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.DI3.88.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.FE1.89.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.FE2.90.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.FE3.91.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.HA1.74.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.HA2.75.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.NE1.71.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.NE2.72.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.NE3.73.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.SA1.77.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.SA2.78.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.SA3.79.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.SU1.80.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.SU2.81.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/KR.SU3.82.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.AN1.125.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.AN2.126.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.AN3.127.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.DI1.128.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.DI2.129.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.DI3.130.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.FE1.131.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.FE2.132.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.FE3.133.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.HA1.116.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.HA2.117.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.HA3.118.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.NE1.113.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.NE2.114.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.NE3.115.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.SA1.119.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.SA2.120.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.SA3.121.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.SU1.122.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.SU2.123.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/MK.SU3.124.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.AN1.211.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.AN2.212.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.AN3.213.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.DI1.214.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.DI2.215.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.DI3.216.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.FE1.217.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.FE2.218.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.FE3.219.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.HA1.202.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.HA2.203.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.HA3.204.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.NE1.199.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.NE2.200.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.NE3.201.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.SA1.205.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.SA2.206.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.SA3.207.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.SU1.208.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.SU2.209.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NA.SU3.210.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.AN1.104.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.AN2.105.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.AN3.106.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.DI1.107.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.DI3.109.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.FE1.110.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.FE2.111.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.FE3.112.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.HA1.95.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.HA2.96.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.HA3.97.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.NE1.92.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.NE2.93.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.NE3.94.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.SA1.98.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.SA2.99.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.SA3.100.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.SU1.101.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.SU2.102.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/NM.SU3.103.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.AN1.190.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.AN2.191.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.AN3.192.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.DI1.193.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.DI2.194.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.DI3.195.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.FE1.196.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.FE2.197.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.FE3.198.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.HA1.180.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.HA2.181.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.HA3.182.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.NE1.177.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.NE2.178.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.NE3.179.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.SA1.184.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.SA2.185.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.SA3.186.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.SU1.187.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.SU2.188.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/TM.SU3.189.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.AN1.146.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.AN2.147.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.AN3.148.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.DI1.149.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.DI2.150.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.DI3.151.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.FE1.152.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.FE2.153.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.FE3.154.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.HA1.137.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.HA2.138.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.HA3.139.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.NE1.134.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.NE2.135.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.NE3.136.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.SA1.140.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.SA2.141.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.SA3.142.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.SU1.143.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.SU2.144.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/UY.SU3.145.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.AN1.61.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.AN2.62.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.AN3.63.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.DI1.64.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.DI2.65.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.DI3.66.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.FE1.67.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.FE2.68.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.FE3.69.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.FE4.70.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.HA1.52.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.HA2.53.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.HA3.54.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.NE1.49.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.NE2.50.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.NE3.51.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.SA1.55.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.SA2.56.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.SA3.57.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.SU1.58.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.SU2.59.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Assets/Jaffe/YM.SU3.60.tiff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/SavedFeatures/testFile.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/EmotionTechniqueComparison.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/.idea/completeComparision_V1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/FeatExtract.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/FeatureExtraction/HOG.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/FeatureExtraction/HOG_Parameters.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/FeaturesSelection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/ImageFind.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Learn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/MachineLearning/SVM.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/Main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/databaseForms/JAFFE.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/databaseForms/KDEF.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/findingCK.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Code/save.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change afterPath="$PROJECT_DIR$/Code/FeatureExtraction/LBP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/FeatureExtraction/LBP_Parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EmotionTechniqueComparison.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EmotionTechniqueComparison.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/FeatureExtraction/HOG.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/FeatureExtraction/HOG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/SavedFeatures/testFile.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/SavedFeatures/testFile.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/databaseForms/JAFFE.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/databaseForms/JAFFE.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,14 +21,43 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="868516216">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="261" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="261" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Code/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+            <state relative-caret-position="459">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -264,11 +65,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Learn.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/LBP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/HOG.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/LBP_Parameters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Code/databaseForms/JAFFE.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/Learn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            <state relative-caret-position="408">
+              <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="e#0#50#0" expanded="true" />
               </folding>
@@ -276,41 +116,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SVM.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/MachineLearning/SVM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-              <folding />
+            <state relative-caret-position="85">
+              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FeatExtract.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/FeatExtract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="34">
+              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageFind.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/ImageFind.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-              <folding />
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findingCK.py" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Code/findingCK.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state>
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -328,116 +164,74 @@
       <list>
         <option value="$PROJECT_DIR$/Code/Learn.py" />
         <option value="$PROJECT_DIR$/Code/save.py" />
-        <option value="$PROJECT_DIR$/Code/Main.py" />
         <option value="$PROJECT_DIR$/Code/extractMethods.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Code/databaseForms/JAFFE.py" />
+        <option value="$PROJECT_DIR$/Code/FeatureExtraction/HOG.py" />
+        <option value="$PROJECT_DIR$/Code/FeatureExtraction/LBP_Parameters.py" />
+        <option value="$PROJECT_DIR$/Code/FeatureExtraction/LBP.py" />
+        <option value="$PROJECT_DIR$/Code/Main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
-    <option name="y" value="23" />
-    <option name="width" value="1353" />
-    <option name="height" value="809" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionTechniqueComparison" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionTechniqueComparison" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionTechniqueComparison" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionTechniqueComparison" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionTechniqueComparison" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EmotionTechniqueComparison" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Code" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="EmotionComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmotionComparison" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmotionComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmotionComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmotionComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmotionComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="databaseForms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EmotionComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmotionComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="FeatureExtraction" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EmotionTechniqueComparison" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EmotionTechniqueComparison" />
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -457,95 +251,32 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EmotionTechniqueComparison" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EmotionTechniqueComparison" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EmotionTechniqueComparison" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EmotionTechniqueComparison" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="EmotionTechniqueComparison" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
-      <method />
-    </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -561,73 +292,37 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="23" width="1353" height="809" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18993995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26602563" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33296824" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Code/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/Learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/MachineLearning/SVM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="64" lean-forward="true" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/databaseForms/KDEF.py" />
     <entry file="file://$PROJECT_DIR$/databaseForms/JAFFE.py" />
     <entry file="file://$PROJECT_DIR$/Main.py" />
     <entry file="file://$PROJECT_DIR$/Code/databaseForms/KDEF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/save.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -636,107 +331,107 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/HOG.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Code/FeaturesSelection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/databaseForms/JAFFE.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/HOG_Parameters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/extractMethods.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/MachineLearning/SVM.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="64" lean-forward="false" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/findingCK.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Code/extractMethods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="150" selection-start-line="2" selection-start-column="150" selection-end-line="2" selection-end-column="150" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Learn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="35" lean-forward="false" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="408">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="150" lean-forward="false" selection-start-line="2" selection-start-column="150" selection-end-line="2" selection-end-column="150" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/Code/MachineLearning/SVM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/FeatExtract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="34">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/ImageFind.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          <folding />
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/findingCK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/databaseForms/JAFFE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/HOG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/LBP_Parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code/FeatureExtraction/LBP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Code/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="68" lean-forward="true" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        <state relative-caret-position="459">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>

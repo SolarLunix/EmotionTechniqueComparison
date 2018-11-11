@@ -1,5 +1,4 @@
 from skimage.feature import hog
-import numpy as np
 
 class featureExtraction():
 
