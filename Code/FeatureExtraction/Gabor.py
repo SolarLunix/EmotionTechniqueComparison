@@ -4,6 +4,7 @@ import cv2 as cv
 
 name = "Gabor"
 
+
 class featureExtraction():
 
     def __init__(self, params):
@@ -69,3 +70,4 @@ class featureExtraction():
                 filt.append(row)
             n_filter = np.array(filt)
             self.filters.append(n_filter)
+ 

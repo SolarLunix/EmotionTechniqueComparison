@@ -7,9 +7,9 @@ import time
 
 class machineLearning():
 
-    def __init__(self, model):
+    def __init__(self, model, selection):
         self.model = model
-
+        self.selection = selection
 
     def train(self, x, y):
         self.model.fit(x,y)
@@ -37,12 +37,14 @@ class machineLearning():
             y_train, y_test = y[train_index], y[test_index]
 
             ts = time.time()
-            # Feature Extract method here!
+            if self.selection is not None:
+                x_train = self.selection.fit_transform(x_train, y_train)
+                x_test = self.selection.transform(x_test)
             te = time.time()
             textract.append(te-ts)
 
             ts = time.time()
-            x_train = scale.fit_transform(x_train,y_train)
+            x_train = scale.fit_transform(x_train, y_train)
             x_test = scale.transform(x_test)
 
             self.model.fit(x_train, y_train)

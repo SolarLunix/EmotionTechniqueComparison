@@ -1,6 +1,7 @@
 from databaseForms import JAFFE, KDEF
 from FeatureExtraction import HOG, HOG_Parameters, LBP, LBP_Parameters, Gabor, Gabor_Parameters
 from MachineLearning import SVM, MLP
+from FeatureSelection import PCA
 
 import numpy as np
 import ImageFind
@@ -16,15 +17,18 @@ t["Zero"] = time.time()
 database = JAFFE
 img_size = (100, 100)
 
-extract = Gabor
-extract_name = extract.name
 extract_params = Gabor_Parameters.set_1
+extract = Gabor
+extract_name = extract.name + " set 1"
 
-select = None
-select_name = None  # select.name
+
+name = database.name + extract.name
+
+select = PCA.PCA_Set_1
+select_name = PCA.name + " set 1"
 
 model = MLP.NN_Set_1
-model_name = MLP.name
+model_name = MLP.name + " set 1"
 folds = 10
 # DO NOT CHANGE ANYTHING BELOW THIS LINE!
 
@@ -41,7 +45,6 @@ x = featExtract.extract(x)
 t["Extract"] = time.time()
 
 ### Example of saving file
-name = 'testFile'
 print('\n-- Saving to file: {0}'.format(name))
 s = save.saveFunction()
 s.save(name, x, y)
@@ -51,7 +54,7 @@ tX, tY = s.load(name)
 ### End of example
 t["Load"] = time.time()
 
-ml = Learn.machineLearning(model)
+ml = Learn.machineLearning(model, select)
 
 acc, times = ml.crossVal(tX, tY, folds)
 t["Extract per fold"] = np.array(times["Extract"]).mean()
