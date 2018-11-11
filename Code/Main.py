@@ -1,5 +1,5 @@
 from databaseForms import JAFFE, KDEF
-from FeatureExtraction import HOG, HOG_Parameters, LBP, LBP_Parameters
+from FeatureExtraction import HOG, HOG_Parameters, LBP, LBP_Parameters, Gabor, Gabor_Parameters
 from MachineLearning import SVM, MLP
 
 import numpy as np
@@ -16,9 +16,9 @@ t["Zero"] = time.time()
 database = JAFFE
 img_size = (100, 100)
 
-extract = HOG
+extract = Gabor
 extract_name = extract.name
-extract_params = HOG_Parameters.set_1
+extract_params = Gabor_Parameters.set_1
 
 select = None
 select_name = None  # select.name
