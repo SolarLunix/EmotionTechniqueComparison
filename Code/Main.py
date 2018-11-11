@@ -19,16 +19,15 @@ img_size = (100, 100)
 
 extract_params = Gabor_Parameters.set_1
 extract = Gabor
-extract_name = extract.name + " set 1"
+extract_name = extract.name + " Set 1"
 
-
-name = database.name + extract.name
+name = database.name + extract.name + "Set1"
 
 select = PCA.PCA_Set_1
-select_name = PCA.name + " set 1"
+select_name = PCA.name + " Set 1"
 
 model = MLP.NN_Set_1
-model_name = MLP.name + " set 1"
+model_name = MLP.name + " Set 1"
 folds = 10
 # DO NOT CHANGE ANYTHING BELOW THIS LINE!
 
