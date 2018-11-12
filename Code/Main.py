@@ -1,6 +1,6 @@
 from databaseForms import JAFFE, KDEF
 from FeatureExtraction import HOG, HOG_Parameters, LBP, LBP_Parameters, Gabor, Gabor_Parameters
-from MachineLearning import SVM, MLP
+from MachineLearning import SVM, NN
 from FeatureSelection import PCA, LDA
 
 import numpy as np
@@ -9,6 +9,42 @@ import FeatExtract
 import Learn
 import save
 import time
+
+t = {}
+t['Zero'] = time.time()
+
+# Items below this line are free to change!
+db = JAFFE
+
+extractor = HOG
+extract = HOG_Parameters.set_1
+
+selector = LDA.Set_1
+
+solver = SVM.Set_1
+
+folds = 10
+
+# DO NOT CHANGE ANYTHING BELOW THIS LINE
+
+names = {
+    'db': db.name,
+    'extract': extract['name'],
+    'selction': selector['name'],
+    'solver': solver['name']
+}
+
+t["Start"] = time.time()
+
+
+
+
+
+
+
+
+
+
 
 t = {}
 t["Zero"] = time.time()

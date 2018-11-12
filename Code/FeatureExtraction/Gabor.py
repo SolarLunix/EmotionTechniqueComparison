@@ -2,8 +2,6 @@ import math
 import numpy as np
 import cv2 as cv
 
-name = "Gabor"
-
 
 class featureExtraction():
 
