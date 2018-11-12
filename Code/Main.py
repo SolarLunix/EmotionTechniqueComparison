@@ -15,16 +15,16 @@ t["Zero"] = time.time()
 
 # This is where you change everything
 database = JAFFE
-img_size = (100, 100)
+img_size = (130, 130)
 
-extract_params = HOG_Parameters.set_2
+extract_params = HOG_Parameters.set_1
 extract = HOG
-extract_name = extract.name + "2"
+extract_name = extract.name + "1"
 
 name = database.name + extract.name + "1"
 
-select = PCA.Set_1
-select_name = PCA.name + "1"
+select = LDA.Set_1
+select_name = LDA.name + "1"
 
 model = SVM.Set_1
 model_name = SVM.name + "1"
@@ -36,7 +36,7 @@ t["Start"] = time.time()
 print('Loading database: {0}'.format(database.name))
 imFin = ImageFind.ImageFinder(database.loc, database.form, img_size)
 x, y = imFin.returnClasses()
-print('\tDatabase Info: \n\t\tLength: {0} \n\t\tNumber of Classes: {1}'.format(len(x),len(database.form)))
+print('\tDatabase Info: \n\t\tLength: {0} \n\t\tNumber of Classes: {1}'.format(len(x), len(database.form)))
 t["Read"] = time.time()
 
 featExtract = FeatExtract.FeatureExtraction(extract, extract_params)

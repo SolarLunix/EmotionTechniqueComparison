@@ -3,7 +3,7 @@ import os
 
 class ImageFinder:
 
-    def __init__(self, location, classForms, size=None):
+    def __init__(self, location, classForms, size=(100, 100)):
         self.directory = location
         self.x = []
         self.y = []
@@ -38,5 +38,5 @@ class ImageFinder:
         else:
             new_img = img
 
-        new_img = cv2.resize(new_img, (130, 130))
+        new_img = cv2.resize(new_img, self.size)
         return new_img
