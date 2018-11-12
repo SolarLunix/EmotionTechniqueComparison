@@ -27,13 +27,6 @@ folds = 10
 
 # DO NOT CHANGE ANYTHING BELOW THIS LINE
 
-names = {
-    'db': db.name,
-    'extract': extract['name'],
-    'selction': selector['name'],
-    'solver': solver['name']
-}
-
 t["Start"] = time.time()
 
 

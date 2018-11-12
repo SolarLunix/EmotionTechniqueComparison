@@ -18,7 +18,7 @@ class machineLearning():
     def test(self, x, y):
         pred = self.model.predict(x)
 
-    def crossVal(self,x, y, splits):
+    def crossVal(self, x, y, splits):
         x = np.array(x)
         y = np.array(y)
 
