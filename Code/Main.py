@@ -17,17 +17,17 @@ t["Zero"] = time.time()
 database = JAFFE
 img_size = (100, 100)
 
-extract_params = LBP_Parameters.set_1
-extract = LBP
-extract_name = extract.name + " Set 1"
+extract_params = HOG_Parameters.set_2
+extract = HOG
+extract_name = extract.name + "2"
 
-name = database.name + extract.name + "Set2"
+name = database.name + extract.name + "1"
 
-select = PCA.PCA_Set_1
-select_name = PCA.name + " Set 1"
+select = PCA.Set_1
+select_name = PCA.name + "1"
 
-model = SVM.SVC_Set_2
-model_name = SVM.name + " Set 2"
+model = SVM.Set_1
+model_name = SVM.name + "1"
 folds = 10
 # DO NOT CHANGE ANYTHING BELOW THIS LINE!
 
@@ -45,7 +45,7 @@ t["Extract"] = time.time()
 
 ### Example of saving file
 print('\n-- Saving to file: {0}'.format(name))
-s = save.saveFunction()
+s = save.SaveFeatures()
 s.save(name, x, y)
 
 print('-- Loading file: {0}'.format(name))
@@ -83,3 +83,25 @@ print("\t {0:.5f} \tLearning Time per Fold".format(t["Learning per fold"]))
 print("\t {0:.5f} \tPrediction Time per Fold".format(t["Prediction per fold"]))
 print("\t------------------------------------------")
 print("\t {0:.5f} \tTotal Time".format(t["End"] - t["Start"]))
+
+names = {
+    'extraction': extract_name,
+    'db': database.name,
+    'selection': select_name,
+    'classification': model_name
+}
+
+ttimes = {
+    'Total': t["End"] - t["Start"],
+    'Read In': t["Read"] - t["Start"],
+    'Extract': t["Extract"] - t["Read"],
+    'Learn': t["End"] - t["Load"],
+    'Extract fold': t["Extract per fold"],
+    'Learning fold': t["Learning per fold"],
+    'Prediction fold': t["Prediction per fold"]
+}
+
+saverun = save.SaveRunInfo()
+saverun.savetrial(names, acc, ttimes)
+
+print("Trial Saved!")
