@@ -1,7 +1,7 @@
 from databaseForms import JAFFE, KDEF
 from FeatureExtraction import HOG, HOG_Parameters, LBP, LBP_Parameters, Gabor, Gabor_Parameters
 from MachineLearning import SVM, MLP
-from FeatureSelection import PCA
+from FeatureSelection import PCA, LDA
 
 import numpy as np
 import ImageFind
@@ -17,14 +17,14 @@ t["Zero"] = time.time()
 database = JAFFE
 img_size = (100, 100)
 
-extract_params = Gabor_Parameters.set_1
-extract = Gabor
+extract_params = LBP_Parameters.set_1
+extract = LBP
 extract_name = extract.name + " Set 1"
 
-name = database.name + extract.name + "Set1"
+name = database.name + extract.name + "Set2"
 
-select = PCA.PCA_Set_1
-select_name = PCA.name + " Set 1"
+select = LDA.LDA_Set_1
+select_name = LDA.name + " Set 1"
 
 model = MLP.NN_Set_1
 model_name = MLP.name + " Set 1"
@@ -74,7 +74,7 @@ print("\tFeature Classification \t", model_name, "with", folds, "folds")
 print('\nAccuracy: {0:.4f}%'.format(acc*100))
 
 print("\nTimes:")
-print("\t {0:.5f} \tReadInTime".format(t["Read"] - t["Start"]))
+print("\t {0:.5f} \tRead In Time".format(t["Read"] - t["Start"]))
 print("\t {0:.5f} \tExtraction Time".format(t["Extract"] - t["Read"]))
 print("\t {0:.5f} \tTotal Learning Time".format(t["End"] - t["Load"]))
 print("\t------------------------------------------")
