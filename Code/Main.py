@@ -23,11 +23,11 @@ extract_name = extract.name + " Set 1"
 
 name = database.name + extract.name + "Set2"
 
-select = LDA.LDA_Set_1
-select_name = LDA.name + " Set 1"
+select = PCA.PCA_Set_1
+select_name = PCA.name + " Set 1"
 
-model = MLP.NN_Set_1
-model_name = MLP.name + " Set 1"
+model = SVM.SVC_Set_2
+model_name = SVM.name + " Set 2"
 folds = 10
 # DO NOT CHANGE ANYTHING BELOW THIS LINE!
 
