@@ -17,17 +17,17 @@ t["Zero"] = time.time()
 database = JAFFE
 img_size = (130, 130)
 
-extract_params = HOG_Parameters.set_1
-extract = HOG
-extract_name = extract.name + "1"
+extract_params = LBP_Parameters.set_8
+extract = LBP
+extract_name = extract.name + "8"
 
 name = database.name + extract.name + "1"
 
-select = LDA.Set_1
-select_name = LDA.name + "1"
+select = None
+select_name = None
 
-model = SVM.Set_1
-model_name = SVM.name + "1"
+model = SVM.Set_3
+model_name = SVM.name + "3"
 folds = 10
 # DO NOT CHANGE ANYTHING BELOW THIS LINE!
 
