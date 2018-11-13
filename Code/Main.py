@@ -23,11 +23,11 @@ extract_name = extract.name + "8"
 
 name = database.name + extract.name + "1"
 
-select = None
-select_name = None
+select = PCA.Set_1
+select_name = PCA.name + "1"
 
-model = SVM.Set_3
-model_name = SVM.name + "3"
+model = SVM.Set_2
+model_name = SVM.name + "2"
 folds = 10
 # DO NOT CHANGE ANYTHING BELOW THIS LINE!
 
