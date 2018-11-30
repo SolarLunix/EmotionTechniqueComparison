@@ -31,6 +31,7 @@ class machineLearning():
         textract = []
         tlearn = []
         tpred = []
+
         for train_index, test_index in skf.split(x, y):
             # specific ".loc" syntax for working with dataframes
             x_train, x_test = x[train_index], x[test_index]
@@ -38,10 +39,9 @@ class machineLearning():
 
             ts = time.time()
             if self.selection is not None:
-                x_train = self.selection.fit_transform(x_train, y_train)
-                x_test = self.selection.transform(x_test)
+                x = self.selection.fit_transform(x, y)
             te = time.time()
-            textract.append(te-ts)
+            textract.append(te - ts)
 
             ts = time.time()
             x_train = scale.fit_transform(x_train, y_train)
